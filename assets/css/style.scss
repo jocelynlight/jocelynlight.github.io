@@ -4,5 +4,8 @@ scss
 
 @import "{{site.theme}}";
 body {
-  background: : linear-gradient(#eee7d9, #e5c89e);;
+  background: : linear-gradient(#eee7d9, #e5c89e);
+}
+a {
+  color: #de7255;
 }
