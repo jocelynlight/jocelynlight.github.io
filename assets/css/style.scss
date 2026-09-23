@@ -3,7 +3,13 @@
 
 @import "{{site.theme}}";
 body {
-  background: linear-gradient(#eee7d9, #e5c89e);
+  background: linear-gradient(#333231, #5c5a57);
+}
+
+#header {
+  background: color: #de7255;
+  border-bottom: none;
+  box-shadow: none;
 }
 
 a {
