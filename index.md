@@ -1,6 +1,3 @@
-## Jocelyn Light
-People & Systems Leader| Victoria, BC
-
 ## About
 Engineering-trained operator who builds the systems that enable growing organizations to work well: how teams are structured, how decisions get made, and how people are hired, supported and developed. I've done this in start-ups across Africa, North America, and globally distributed teams, and most recently as a founder.
 
