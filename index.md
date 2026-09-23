@@ -18,7 +18,7 @@ Engineering-trained operator who builds the systems that enable growing organiza
 - Cross-functional delivery
 - Product operations and implementation
 
-##Contact
+### Contact
 [Email](jocelynlight#proton.me) · [LinkedIn](https://linkedin.com/in/jocelyn-light)
 
 © 2026 Jocelyn Light. All rights reserved.
